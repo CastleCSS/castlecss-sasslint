@@ -1,6 +1,6 @@
 {
   "name": "castlecss-sasslint",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Sass-lint package for CastleCSS",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,5 @@
     "url": "https://github.com/CastleCSS/castlecss-sasslint/issues"
   },
   "homepage": "https://github.com/CastleCSS/castlecss-sasslint#readme",
-  "devDependencies": {
-    "sass-lint": "^1.11.1"
-  }
+  "devDependencies": {}
 }
